@@ -1,6 +1,6 @@
 from PyBambooHR import PyBambooHR
 
-bamboo = PyBambooHR.PyBambooHR(subdomain='infinityworks', api_key='OTY0NTAzNjZjYmIyNmFlNTJkNzJlZDRmNjM0ODgxZGE3NDg5ZDg3ZDp4')
+bamboo = PyBambooHR.PyBambooHR(subdomain='', api_key='')
 
 # Use the ID to request json information
 # result = bamboo.request_company_report(1, format='json', filter_duplicates=True)
