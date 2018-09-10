@@ -1,6 +1,6 @@
 # PyBambooHR
 
-[![Build Status](https://secure.travis-ci.org/smeggingsmegger/PyBambooHR.png)](https://travis-ci.org/smeggingsmegger/PyBambooHR)&nbsp;&nbsp;&nbsp;![Download Stats](https://pypip.in/download/PyBambooHR/badge.svg)
+[![Build Status](https://secure.travis-ci.org/davenicoll-iw/PyBambooHR.png)](https://travis-ci.org/davenicoll-iw/PyBambooHR)&nbsp;&nbsp;&nbsp;![Download Stats](https://pypip.in/download/PyBambooHR/badge.svg)
 
 This is an unofficial Python API for Bamboo HR. So far it is focusing on managing employee information but you can pretty much do anything you want with a little python.
 
