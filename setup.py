@@ -47,10 +47,10 @@ if os.path.exists('README.txt'):
 setup(
     name='PyBambooHR',
     version='0.7.0',
-    url='http://github.com/smeggingsmegger/PyBambooHR',
+    url='http://github.com/davenicoll-iw/PyBambooHR',
     license='MIT',
-    author='Scott Blevins',
-    author_email='sblevins@gmail.com',
+    author='Dave Nicoll',
+    author_email='david.nicoll@infinityworks.com',
     description='A Python wrapper for the Bamboo HR API',
     long_description= long_description+'\n'+read('CHANGES'),
     platforms='OS Independent',
