@@ -6,6 +6,14 @@ This is an unofficial Python API for Bamboo HR. So far it is focusing on managin
 
 The library makes use of the [requests](http://docs.python-requests.org/en/latest/) library for Python and [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) for testing. A huge thank you to both of those excellent projects.
 
+Setup:
+
+```bash
+python setup.py build
+python setup.py install
+pip install -r requirements.txt
+```
+
 Using this library is very simple:
 
 ```python
